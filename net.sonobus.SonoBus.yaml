@@ -34,8 +34,6 @@ cleanup:
   #- "*.a"
 
 modules:
-  #- shared-modules/glew/glew.json
-  
   - name: Opus
     sources:
       - type: archive
